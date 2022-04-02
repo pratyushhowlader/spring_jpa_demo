@@ -1,7 +1,7 @@
 package com.example.spring_jpa_demo;
 
 import javax.persistence.*;
-//Pratyush asdfadsf
+//Pratyush asdfadsfasfasfasf asfdasf
 @Entity
 @Table(name = "tbl_room")
 public class Room {
