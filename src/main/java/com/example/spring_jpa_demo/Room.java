@@ -1,7 +1,7 @@
 package com.example.spring_jpa_demo;
 
 import javax.persistence.*;
-//Pratyush Howlader i
+//Pratyush Howlader i am rady to upload
 @Entity
 @Table(name = "tbl_room")
 public class Room {
