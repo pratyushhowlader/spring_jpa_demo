@@ -1,7 +1,7 @@
 package com.example.spring_jpa_demo;
 
 import javax.persistence.*;
-//This is Entity Class
+
 @Entity
 @Table(name = "tbl_room")
 public class Room {
