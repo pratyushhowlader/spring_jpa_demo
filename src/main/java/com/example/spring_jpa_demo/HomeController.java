@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+//This is home controller
 @RestController
 public class HomeController {
     @Autowired
